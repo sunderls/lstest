@@ -1,6 +1,8 @@
 # lstest
 
-a sample test 'framework?', which does unit test & e2e test, only for learning, not for real use
+a sample test 'framework?', which does unit test & e2e test, only for learning, not for real use. 
+
+blog is here: http://tech.colla.me/en/show/understanding_unit_test_and_e2e_test_in_frond_end_development
 
 
 ## unit test example
